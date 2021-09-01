@@ -1,3 +1,5 @@
+import './styles/content.scss';
+
 import { useEffect, useState } from "react";
 import { ContentProps, GenreResponseProps, MovieProps } from "../interfaces/interfaces";
 import { api } from "../services/api";

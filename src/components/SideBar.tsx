@@ -1,4 +1,5 @@
-import { useState } from 'react';
+import './styles/sidebar.scss';
+
 import { GenreResponseProps, SideBarProps } from '../interfaces/interfaces';
 import { Button } from './Button';
 
