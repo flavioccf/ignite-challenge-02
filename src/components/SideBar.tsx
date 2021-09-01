@@ -1,4 +1,4 @@
-import './styles/sidebar.scss';
+import '../styles/sidebar.scss';
 
 import { GenreResponseProps, SideBarProps } from '../interfaces/interfaces';
 import { Button } from './Button';
